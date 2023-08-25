@@ -1,5 +1,6 @@
 # bus-info-sp
-Aplicativo criado para o Hackathon - Matéria INF332 - Arquitetura Orientada a Serviços - SOA & WebServices: Conceitos e Práticas
+Aplicativo criado para o Hackathon - Matéria INF332 - Arquitetura Orientada a Serviços - SOA & WebServices: Conceitos e Práticas  
+Curso de Especialização em Engenharia de Software - Unicamp 2023
 
 Grupo 6:  
 João Guilherme da Silva Kita  
